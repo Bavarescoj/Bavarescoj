@@ -15,10 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm Juan, a multi-passionate human in love with technology, creativivity, human experiences, and finding ways to connect the three of them.
+I'm Juan, a multi-passionate human in love with technology, creativivity, human experiences, and finding ways to connect the three of them. <br><br>
 Experienced in C++, Java and Python.
 
-🌱 I’m currently learning React and Machine Learning
-📫 How to reach me: bavaresco.juan@gmail.com
-🔭 Hobbies: climbing, boardgames, cycling, cooking, running, languages, space
+🌱 I’m currently learning React and Machine Learning <br>
+📫 How to reach me: bavaresco.juan@gmail.com <br>
+🔭 Hobbies: climbing, boardgames, cycling, cooking, running, languages, space <br>
 
