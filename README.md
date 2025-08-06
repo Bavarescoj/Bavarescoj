@@ -18,7 +18,6 @@ Here are some ideas to get you started:
 I'm Juan, a multi-passionate human in love with technology, creativity, human experiences, and finding ways to connect the three of them. <br><br>
 Experienced in C++, Java and Python.
 
-🌱 I’m currently learning React and Machine Learning <br>
 📫 How to reach me: bavaresco.juan@gmail.com <br>
 🔭 Hobbies: climbing, boardgames, cycling, cooking, running, languages, space <br>
 
